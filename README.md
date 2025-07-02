@@ -1,43 +1,23 @@
-Nadav Shanun's GitHub Profile
-Hi, I'm Nadav Shanun, a passionate Electrical and Computer Engineering student at the University of Central Florida, expected to graduate in Spring 2026 with a 3.8 GPA. I’m a builder at heart, diving into projects ranging from AI-driven precision medicine to quantum computing and wearable tech. My work blends hardware and software, with a focus on pushing boundaries in robotics, aerospace, and medical applications.
+I build in AI, robotics, and aerospace, merging hardware and software to innovate in medical tech, quantum computing, and AR.
 About Me
 
-🎓 Dual Major: B.S. in Electrical Engineering & Computer Science at UCF
-💻 Tech Stack: Python, C++, MATLAB, Arduino, Raspberry Pi, CAD, COMSOL, ANSYS
-🚀 Experience: Internships at NASA, Johns Hopkins APL, and startups like Omi.me and Spike Dynamics
-🌟 Leadership: Co-Founder of Precision/Med AI, UCF Student Government Senator, and Director of multiple engineering projects
-🏆 Achievements: Omicron Delta Kappa Honor Society, IEEE Symposium Scholarship, NVIDIA Generative AI Certification
+Skills: Python, C++, MATLAB, JavaScript, Flutter, React, Arduino, Raspberry Pi, CAD (SolidWorks, AutoCAD), COMSOL, ANSYS, Unity, PCB Design, RF Design, Quantum Computing, Firmware Development, 3D Printing, Data Analytics
+Experience: Intern at NASA, Johns Hopkins APL (DoD), Omi.me, Y Combinator S24 startup (Weel)
+Leadership: Co-Founder of Precision/Med AI, Aware Co-Founder
 
-Featured Projects
-Here are some highlights of my work:
-Precision/Med AI
-Co-Founder & CEOAn AI-driven platform personalizing treatment plans for chemotherapy, HIV, and cardiology using patient-specific data. Currently in the process of being acquired.  
+Key Projects
 
-Tech: Python, AI algorithms, mRNA sequence drug development  
-Impact: Partnered with hospitals and oncology clinics to integrate into EHR systems
+Weel (Y Combinator S24): Built hybrid GPT + time-series models to forecast macroeconomic indicators using real-time data from central banks and markets. Developed risk indices from geopolitical and fintech APIs for market strategy.  
+NASA Quantum Internship: Researched quantum entanglement for secure deep-space communication, optimizing error-resistant algorithms for satellite networks using Python and MATLAB.  
+Omi.me AR Glasses: Developed firmware and Unity-based interfaces in Python and C++ for AR glasses, enabling real-time person recognition and text translation with optimized sensor calibration.  
+Johns Hopkins APL (DoD): Engineered and tested satellite components for radiation resilience, building Linux-based C++ and Python models for anomaly detection and MATLAB orbital simulations.  
+Precision/Med AI (Research): Co-founded AI platform for personalized chemotherapy and cardiology treatments using patient-specific data. Currently in acquisition, integrated with hospital EHR systems.  
+Quantum Entanglement Research (Indiana University): Developed sensor systems with scintillation crystals and Raspberry Pi to study gamma entanglement, advancing quantum tech applications.  
+NanoBioSensors Lab (Research): Researched carbon nanotube sensors for prosthetics, using 3D printing and Arduino for mobile app data acquisition.
 
-NASA Quantum Computing Internship
-January - May 2024Researched quantum entanglement for secure deep-space communication, developing error-resistant algorithms for satellite networks.  
+Contact
 
-Tech: Quantum computing, Python, MATLAB  
-Outcome: Proposed solutions for ion trap stability in aerospace applications
+Email: shanunnadav@gmail.com
+LinkedIn: Nadav Shanun
 
-Omi.me AR Glasses
-VR/AR Hardware & Software Integration EngineerIntegrated open-source AR glasses with mobile apps, building real-time features like person recognition and text translation.  
-
-Tech: Python, C++, Unity, firmware development  
-Highlight: Optimized sensor calibration for seamless hardware-software interaction
-
-Florida Space Institute Rover Project
-Project DirectorLed a team of 32 students to develop a 3D-printed NASA rover, focusing on hardware design and Raspberry Pi integration.  
-
-Tech: 3D printing, Raspberry Pi, Python, CAD  
-Status: Ongoing, with successful prototype testing
-
-Get in Touch
-
-📧 Email: na1955633@ucf.edu
-🔗 LinkedIn: Nadav Shanun
-🌐 Portfolio: (Add your portfolio link here)
-
-Feel free to explore my repositories to see more of my work in AI, hardware design, and innovative engineering solutions!
+Check out my repositories for more on AI, quantum tech, and hardware innovation
