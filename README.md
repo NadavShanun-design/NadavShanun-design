@@ -1,69 +1,43 @@
-Hi there 👋 I'm Nadav Shanun!
-<!-- THIS IS YOUR BANNER IMAGE - IT WILL APPEAR AS AN IMAGE ON GITHUB -->
-
-🚀 Electrical & Robotics Engineer | AI/ML Enthusiast | Innovator
+Nadav Shanun's GitHub Profile
+Hi, I'm Nadav Shanun, a passionate Electrical and Computer Engineering student at the University of Central Florida, expected to graduate in Spring 2026 with a 3.8 GPA. I’m a builder at heart, diving into projects ranging from AI-driven precision medicine to quantum computing and wearable tech. My work blends hardware and software, with a focus on pushing boundaries in robotics, aerospace, and medical applications.
 About Me
-I'm a highly motivated Electrical Engineering major with an active Top Secret Security Clearance, passionate about innovating at the intersection of robotics, AI, and hardware. My journey involves developing cutting-edge solutions from concept to deployment, leveraging a strong background in embedded systems, AI/ML, and project leadership. I'm committed to building impactful technologies that push the boundaries of what's possible.
 
-💡 What I'm Currently Working On
-Deep diving into advanced AI models for real-time robotic control.
+🎓 Dual Major: B.S. in Electrical Engineering & Computer Science at UCF
+💻 Tech Stack: Python, C++, MATLAB, Arduino, Raspberry Pi, CAD, COMSOL, ANSYS
+🚀 Experience: Internships at NASA, Johns Hopkins APL, and startups like Omi.me and Spike Dynamics
+🌟 Leadership: Co-Founder of Precision/Med AI, UCF Student Government Senator, and Director of multiple engineering projects
+🏆 Achievements: Omicron Delta Kappa Honor Society, IEEE Symposium Scholarship, NVIDIA Generative AI Certification
 
-Exploring new frontiers in quantum computing applications for aerospace.
+Featured Projects
+Here are some highlights of my work:
+Precision/Med AI
+Co-Founder & CEOAn AI-driven platform personalizing treatment plans for chemotherapy, HIV, and cardiology using patient-specific data. Currently in the process of being acquired.  
 
-Always eager to collaborate on innovative projects!
+Tech: Python, AI algorithms, mRNA sequence drug development  
+Impact: Partnered with hospitals and oncology clinics to integrate into EHR systems
 
-🛠️ My Skillset
-Here are some of the technologies and tools I work with:
+NASA Quantum Computing Internship
+January - May 2024Researched quantum entanglement for secure deep-space communication, developing error-resistant algorithms for satellite networks.  
 
-Programming Languages & Frameworks:
+Tech: Quantum computing, Python, MATLAB  
+Outcome: Proposed solutions for ion trap stability in aerospace applications
 
-<!-- THESE ARE YOUR SKILL IMAGES (BADGES) -->
+Omi.me AR Glasses
+VR/AR Hardware & Software Integration EngineerIntegrated open-source AR glasses with mobile apps, building real-time features like person recognition and text translation.  
 
-AI & Machine Learning:
+Tech: Python, C++, Unity, firmware development  
+Highlight: Optimized sensor calibration for seamless hardware-software interaction
 
-Hardware & Embedded Systems:
+Florida Space Institute Rover Project
+Project DirectorLed a team of 32 students to develop a 3D-printed NASA rover, focusing on hardware design and Raspberry Pi integration.  
 
-Tools & Platforms:
+Tech: 3D printing, Raspberry Pi, Python, CAD  
+Status: Ongoing, with successful prototype testing
 
-💼 Experience Highlights
-NASA Electrical and Robotics Engineer Intern: Developed haptic glove robotic systems for astronaut VR training and enhanced hardware functionality for an Iron Man style robotic haptic hand.
+Get in Touch
 
-Department of Defense Nuclear and Electrical Engineer: Developed microelectronics for thermonuclear warheads and created an AI API for atomic simulations.
+📧 Email: na1955633@ucf.edu
+🔗 LinkedIn: Nadav Shanun
+🌐 Portfolio: (Add your portfolio link here)
 
-Co-Founder and CTO, OnLife Startup: Founded a company integrating health apps, directing a team of 11 employees and 35 interns, focusing on hardware solutions and mobile app development.
-
-Co-Founder & CEO, PrecisionMed AI: Developed and launched an AI-driven platform for personalized chemotherapy and led partnerships with hospitals.
-
-🎓 Education
-University of Central Florida
-
-B.S. in Electrical Engineering (Major GPA 3.8, Spring 2026)
-
-Certificate: Engineering Leadership
-
-Minors: Business Administration, Computer Science
-
-Active Top Secret Security Clearance
-
-🏆 Awards & Certificates
-Omicron Delta Kappa National Leadership Honor Society
-
-Yale University Certificate in Connected Leadership
-
-Google Certificate: Large Language Models
-
-NVIDIA Generative AI Certification
-
-RF Design, PCB Design, Generative AI Certificates
-
-📫 Let's Connect!
-LinkedIn: Nadav Shanun
-
-Email: na195633@ucf.edu
-
-GitHub: Your GitHub Profile <!-- IMPORTANT: You can replace 'your-github-username' with your actual GitHub username for this link to be accurate. -->
-
-GitHub Stats (These will show as images!)
-<!-- These images are dynamic and will show your GitHub activity. -->
-
-<!-- They are pre-filled with a placeholder 'your-github-username'. You can replace this with your actual GitHub username for precise stats. -->
+Feel free to explore my repositories to see more of my work in AI, hardware design, and innovative engineering solutions!
